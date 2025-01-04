@@ -4,8 +4,8 @@ And if you do not want to buy then you can also download the free one but [not c
 
 Note: This is illegal repo, so this github repo can be deleted anytime.. Download fast as you can.
 
-1 Install the default cursor by 'Install.inf'
+1. Install the default cursor by 'Install.inf'
 
-2 Read 'Read this.pdf' file to install Additional "Busy & Working" animated colourfull cursors.
+2. Read 'Read this.pdf' file to install Additional "Busy & Working" animated colourfull cursors.
 
-3 Enjoy!
+3. Enjoy!
